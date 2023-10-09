@@ -1,0 +1,101 @@
+[
+    {
+        "Site": "Launch Complex 39A",
+        "Groundside operator": "Kennedy Space Center",
+        "Status": "Active",
+        "Owner": "NASA leased to SpaceX",
+        "Coordinates": {"lat": 28.608389, "lon": -80.604333},
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NASA%E2%80%99s_SpaceX_Crew-5_Preflight_%28NHQ202210040003%29_Cropped.jpg/1280px-NASA%E2%80%99s_SpaceX_Crew-5_Preflight_%28NHQ202210040003%29_Cropped.jpg",
+        "desc": "The pad in October 2022, with Crew Dragon Endurance atop a Falcon 9 with the crew access arm extended and the launch tower for SpaceX's Starship under construction."
+    },
+    {
+        "Site": "Launch Complex 39B",
+        "Status": "Active",
+        "Groundside operator": "Kennedy Space Center",
+        "Owner": "NASA",
+        "Coordinates": {"lat": 28.627222, "lon": -80.620833},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Artemis_I_Arrives_at_Pad_39B_%28Cropped%29.jpg/1024px-Artemis_I_Arrives_at_Pad_39B_%28Cropped%29.jpg",
+        "desc":"Space Launch System atop LC-39B on March 18, 2022"
+    },
+    {
+        "Site": "Launch Complex 13",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "leased to SpaceX",
+        "Coordinates": {"lat": 28.4859, "lon": -80.5444},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mariner_3_on_the_launchpad.jpg/800px-Mariner_3_on_the_launchpad.jpg",
+        "desc":"Atlas with Mariner 3 at Launch Complex 13 prior to launch on 4 November 1964"
+    },
+    {
+        "Site": "Launch Complex 16",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "leased to Relativity Space",
+        "Coordinates": {"lat": 28.5017, "lon": -80.5518},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Launch_Complex_16.jpg/800px-Launch_Complex_16.jpg",
+        "desc":"Titan I launch from LC-16"
+    },
+    {
+        "Site": "Space Launch Complex 37B",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "Used by United Launch Alliance",
+        "Coordinates": {"lat": 28.531986, "lon": -80.566821},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Liftoff_for_a_Delta_IV_Medium%2B_%284%2C2%29_after_its_launch_tower.jpg",
+        "desc":"The launch of GOES-N atop a Delta IV, from SLC-37B in 2006"
+    },
+    {
+        "Site": "Space Launch Complex 40",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "Leased to SpaceX",
+        "Coordinates": {"lat": 28.562106, "lon": -80.57718},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/3/3c/KSC-20171215-PH_AWG03_0009_%2824214520767%29.jpg",
+        "desc":"SLC-40 during launch of SpaceX CRS-13 in December 2017, after repair and upgrade works to the pad between 2016–2017"
+    },
+    {
+        "Site": "Space Launch Complex 41",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "Used by United Launch Alliance",
+        "Coordinates": {"lat": 28.583333, "lon": -80.583056},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Atlas_V_551_at_Launch_Pad_41.jpg/1024px-Atlas_V_551_at_Launch_Pad_41.jpg",
+        "desc":"An aerial view of SLC-41. The Atlas V on the pad is the one used to launch New Horizons to Pluto."
+    },
+    {
+        "Site": "Launch Complex 47",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "has not been used for some time",
+        "Coordinates": {"lat": 28.549123, "lon": -80.567434},
+        "url":"https://www.spaceline.org/spacelineorg/wp-content/uploads/2020/12/word-image-246-480x480.jpeg",
+        "desc":"Aerial View Of Launch Complex 47 Circa 2018"
+    },
+    {
+        "Site": "Launch Complex 46",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "Leased to Spaceport Florida, subleased to Astra",
+        "Coordinates": {"lat": 28.458333, "lon": -80.528333},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Athena-2_-_Lunar_Prospector_1.jpg/800px-Athena-2_-_Lunar_Prospector_1.jpg",
+        "desc":"An Athena II at LC-46 prior to the launch of Lunar Prospector."
+    },
+    {
+        "Site": "Shuttle Landing Facility",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "Operated by Space Florida",
+        "Coordinates": {"lat": 28.615, "lon": -80.6945},
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lunar_planetary_landscape_and_runway_at_KSC_built_to_test_Morpheus_lander.jpg/1024px-Lunar_planetary_landscape_and_runway_at_KSC_built_to_test_Morpheus_lander.jpg",
+        "desc":"Aerial view of Shuttle Landing Facility in 2012"
+    },
+    {
+        "Site": "Cape Canaveral Space Force Station Skid Strip",
+        "Status": "Active",
+        "Groundside operator": "Cape Canaveral Space Force Station",
+        "Owner": "-",
+        "Coordinates": {"lat": 28.468, "lon": -80.567},
+        "url":"https://acukwik.com/extimages/Listing-Images/05157AD.jpg?s=8DB9DA53CE71900",
+        "desc":"airport diagram"
+    }
+]
